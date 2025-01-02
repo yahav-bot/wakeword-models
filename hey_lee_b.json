@@ -5,7 +5,7 @@
   "website": "https://www.kevinahrendt.com/",
   "model": "hey_lee_b.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
-  "version": 2,
+  "version": 1,
   "micro": {
     "probability_cutoff": 0.85,
     "feature_step_size": 10,
