@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Okay Nabu",
+  "wake_word": "Hey Lee_B",
   "author": "Yahav Yamin",
   "website": "https://www.kevinahrendt.com/",
   "model": "hey_lee_b.tflite",
